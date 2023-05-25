@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "prepublush": "tsc"
+    "prepublish": "tsc"
   },
   "devDependencies": {
     "@types/node": "^20.2.3",
